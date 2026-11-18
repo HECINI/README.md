@@ -39,5 +39,5 @@ Passionate **Full-Stack Developer** focused on building clean, scalable web appl
 
 ### 📫 Connect with me
 
-* 🌐 **Website / Portfolio:** [Your Website Link Here]
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]# README.md
+* 🌐 **Website / Portfolio:** OMRA.SERVICES
+* 💼 **LinkedIn:** www.linkedin.com/in/hamza-hecini-0776b4150# README.md
